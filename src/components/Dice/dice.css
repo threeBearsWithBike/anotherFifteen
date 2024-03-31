@@ -1,0 +1,22 @@
+.dice {
+    font-size: 1.7em;
+    font-weight: bold;
+    border-radius: 5px;
+    color: #D8BFD8;
+    border: 2px solid #E6E6FA;
+    background-color: #6A5ACD;
+    cursor: pointer;
+}
+
+@media all and (min-width: 420px) and (min-height: 500px) {
+    .dice {
+        font-size: 3em;
+        border-radius: 10px;
+        border: 3px solid #E6E6FA;
+    }
+  }
+
+.without-dice {
+    border: none;
+    background: none;
+}

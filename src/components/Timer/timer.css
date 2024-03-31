@@ -1,0 +1,15 @@
+.timer-wrapper {
+    text-align: center;
+}
+
+.time {
+    font-size: 2em;
+    font-weight: 600;
+    color: #E6E6FA;
+}
+
+@media all and (min-width: 420px) {
+    .time {
+        font-size: 1.5em;
+    }
+}

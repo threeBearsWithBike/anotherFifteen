@@ -1,0 +1,20 @@
+.field {
+    display: grid;
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    padding: 3px;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(4, 1fr);
+    gap: 2px;
+    border-radius: 10px;
+    border: 3px solid #E6E6FA;
+}
+
+@media all and (min-width: 420px) and (min-height: 520px) {
+  .field {
+    width: 380px;
+    height: 380px;
+    padding: 5px;
+  }
+}
