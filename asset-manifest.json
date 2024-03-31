@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/anotherFifteen/static/css/main.e0f59cec.css",
+    "main.js": "/anotherFifteen/static/js/main.5195a736.js",
+    "static/media/goodluck.png": "/anotherFifteen/static/media/goodluck.c4b356b929ed49971918.png",
+    "static/media/simpsonWin.png": "/anotherFifteen/static/media/simpsonWin.dd85f9ae723bfa936166.png",
+    "static/media/simpsonLose.png": "/anotherFifteen/static/media/simpsonLose.0de227cfc3db3f7b0940.png",
+    "index.html": "/anotherFifteen/index.html",
+    "main.e0f59cec.css.map": "/anotherFifteen/static/css/main.e0f59cec.css.map",
+    "main.5195a736.js.map": "/anotherFifteen/static/js/main.5195a736.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0f59cec.css",
+    "static/js/main.5195a736.js"
+  ]
+}
